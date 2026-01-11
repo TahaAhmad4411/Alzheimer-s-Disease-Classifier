@@ -2,7 +2,7 @@
 
 # Project Overview
 Alzheimer's Disease (AD) is a progressive neurodegenerative disorder characterized by irreversible cognitive decline and memory loss. As the global population ages, the prevalence of AD is rising, making early and accurate diagnosis critical for effective intervention. However, disease progression is highly heterogeneous, influenced by a complex interplay of genetic, demographic, and clinical factors.
-# ObjectiveOur 
+# Objective
 Our goal is to develop a robust, multimodal deep learning framework to predict the longitudinal progression of Alzheimer's Disease. Specifically, we aim to forecast the transition between disease stages (e.g., MCI to Dementia) to facilitate personalized therapeutic strategies and rigorous patient monitoring.
 # Data Source & Methodology
 We utilize a longitudinal dataset from the Alzheimer's Disease Neuroimaging Initiative (ADNI), integrating two distinct data modalities:
