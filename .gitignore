@@ -1,0 +1,11 @@
+# ADNI data may not be redistributed (ADNI Data Use Agreement)
+MRI Scans-3D/
+*.nii
+*.nii.gz
+ADNIMERGE*.csv
+*TOMM40*.csv
+*APOE*.csv
+
+# generated files (preprocessed cache, figures, results)
+outputs/
+.ipynb_checkpoints/
